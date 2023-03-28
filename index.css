@@ -1,0 +1,10 @@
+:root{
+    background-color: bisque;
+}
+label,input, button{
+    border-radius: 40px;
+    font-size: 21px;
+  }
+  p,h2{
+      font-size: 21px;
+  }

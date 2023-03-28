@@ -51,9 +51,9 @@ if (confirmed) {
 //4
 let newWindow;
 function firstFunction(){
-    newWindow = window.open("http://lp.edu.ua/", "_blank");
+ newWindow = window.open("http://lp.edu.ua/", "_blank");
 }
 
 function secondFunction(){
-    newWindow.close();
+ newWindow.close();
 }
